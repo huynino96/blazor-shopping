@@ -8,7 +8,7 @@
 
         public string Description { get; set; }
 
-        public string ImageUrl { get; set; }
+        public string ImageURL { get; set; }
 
         public decimal Price { get; set; }
 
